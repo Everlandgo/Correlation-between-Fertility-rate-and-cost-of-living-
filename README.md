@@ -4,7 +4,7 @@ The main aim of this research is to find whether all the countries with high liv
         
 In this project, I carried out analysis based on a dataset consists of the cost of living index around the world and another dataset consisting of fertility rates by country. For this project, I focused on the specific period from 2015 to 2020.
 
-Jupyter notebook: fertility_rate&cost_of_living.ipynb
+Jupyter notebook: 
 
 #### Ethics of use of data 
 <ul>
