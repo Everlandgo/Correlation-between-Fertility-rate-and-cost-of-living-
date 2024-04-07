@@ -1,8 +1,8 @@
 # Correlation-between-Fertility-rate-and-cost-of-living
 
-The main aim of this research is to find whether all the countries with high living indexes have low fertility rates and whether fertility rates correlate to living expenses.
-        
-In this project, I carried out analysis based on a dataset consists of the cost of living index around the world and another dataset consisting of fertility rates by country. For this project, I focused on the specific period from 2015 to 2020.
+The primary objective of this study is to investigate the correlation between countries with high living indexes and their corresponding fertility rates, as well as to explore the relationship between fertility rates and living expenses.
+
+The project utilizes two datasets that includes the cost of living index and fertility rates from 2015 to 2020, the study delves into understanding the relationship between these factors.
 
 
 #### Ethics of use of data 
